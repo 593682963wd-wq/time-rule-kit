@@ -1,0 +1,9 @@
+{
+  "action": "truth",
+  "args": {
+    "known": 2,
+    "unknown": 2,
+    "denominator": 10,
+    "percent": 30
+  }
+}
